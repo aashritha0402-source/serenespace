@@ -1,0 +1,30 @@
+# Compiled output
+*.o
+*.out
+*.exe
+serenespace
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs
+*.log

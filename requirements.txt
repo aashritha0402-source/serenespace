@@ -1,0 +1,25 @@
+# =============================================
+# SereneSpace - Requirements
+# =============================================
+
+# No external libraries required.
+# This project uses only the C Standard Library (stdio.h, string.h).
+
+# Environment:
+#   - VMware Workstation: https://www.vmware.com/
+#   - OS: Ubuntu (via VMware)
+
+# Compiler:
+#   - GCC (pre-installed on Ubuntu)
+#   - Verify: gcc --version
+#   - Install if missing: sudo apt update && sudo apt install gcc
+
+# Text Editor:
+#   - Nano (pre-installed on Ubuntu)
+#   - Open file: nano serenespace.c
+
+# Compile Command:
+#   gcc serenespace.c -o serenespace
+
+# Run Command:
+#   ./serenespace
